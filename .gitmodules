@@ -10,3 +10,6 @@
 [submodule "bundle/css-syntax"]
 	path = bundle/css-syntax
 	url = git://github.com/vim-scripts/Better-CSS-Syntax-for-Vim.git
+[submodule "bundle/pathogen"]
+	path = bundle/pathogen
+	url = https://github.com/tpope/vim-pathogen.git
